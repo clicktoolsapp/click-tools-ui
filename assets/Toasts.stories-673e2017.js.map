@@ -1,0 +1,1 @@
+{"version":3,"file":"Toasts.stories-673e2017.js","sources":["../../src/stories/Toast.tsx"],"sourcesContent":["import { FC, HTMLAttributes } from 'react'\n\nexport const Toast: FC = () => {\n  return <div> Toast </div>\n}\n\nexport type ToastProps = HTMLAttributes<HTMLDivElement>\n"],"names":["Toast","jsx"],"mappings":"gKAEO,MAAAA,EAAA,IACLC,EAAA,IAAA,MAAA,CAAA,SAAA,SAAA,CAAA"}
